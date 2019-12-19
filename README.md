@@ -1,6 +1,8 @@
 # slack_status
 Slack channel member status dashboard. Shows status text and emojis from members of a chosen channel.
 
+![Screenshot](/slack_status/static/screenshot.png?raw=true "Screenshot")
+
 # Usage
 
 ```sh
